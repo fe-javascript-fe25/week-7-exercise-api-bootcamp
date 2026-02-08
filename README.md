@@ -1,5 +1,7 @@
 # API Bootcamp
 
+Testa gärna både `Promise-kedjor` och `async / await` i början. Kom ihåg att du alltid behöver felhantera när du gör externa anrop som du inte kan vara säker på kommer lyckas.
+
 ## Övning 1:
 
 1. Hämta alla pokemons genom en fetch mot API'et
